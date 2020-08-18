@@ -1,0 +1,10 @@
+server:
+  port: 8764
+
+spring:
+  application:
+    name: ace-monitor
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.152.1:8848
