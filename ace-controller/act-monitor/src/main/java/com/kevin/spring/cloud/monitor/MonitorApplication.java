@@ -1,4 +1,4 @@
-package com.spring.cloud.monitor;
+package com.kevin.spring.cloud.monitor;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;

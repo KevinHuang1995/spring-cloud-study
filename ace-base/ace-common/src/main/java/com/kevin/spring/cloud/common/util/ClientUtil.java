@@ -1,4 +1,4 @@
-package com.spring.cloud.common.util;
+package com.kevin.spring.cloud.common.util;
 
 import javax.servlet.http.HttpServletRequest;
 
