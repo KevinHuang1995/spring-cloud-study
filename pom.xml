@@ -10,6 +10,7 @@
     <modules>
         <module>ace-controller</module>
         <module>ace-base</module>
+        <module>ace-api</module>
     </modules>
     <packaging>pom</packaging>
 
