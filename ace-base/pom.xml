@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ace-common</module>
+        <module>ace-auth-sdk</module>
     </modules>
 
 
